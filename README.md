@@ -86,5 +86,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SuperH-0630&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+## Help
+I use some tool to generated this profile. Such as <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>.
