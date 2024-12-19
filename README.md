@@ -6,9 +6,9 @@
 我立志成为一名优秀的全栈工程师。
 我的开发梦想是完成自己的操作系统（OS）、编程语言（Programming Language）以及维系系统正常运行的组件工具（Tool）。
 
-你可以通过我主页的个人公开邮箱[songzihuan@song-zh.com](mailto:songzihuan@song-zh.com)联系我。
+你可以通过我主页的个人公开邮箱 [songzihuan@song-zh.com](mailto:songzihuan@song-zh.com) 联系我。
 
-同时，你可以浏览[我的个人网站](https://songzihuan@song-zh.com)。尽管有些时候他可能还未准备好提供服务。
+同时，你可以浏览我的个人网站 [https://song-zh.com](https://song-zh.com) 。尽管有些时候他可能还未准备好提供服务。
 
 我的个人标志性域名是**song-zh.com**，请认准该域名，谨防冒充等行为。
 
