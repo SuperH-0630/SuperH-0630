@@ -8,7 +8,7 @@
 
 你可以通过我主页的个人公开邮箱[songzihuan@song-zh.com](mailto:songzihuan@song-zh.com)联系我。
 
-同时，你可以浏览[我的个人网站](http://songzihuan@song-zh.com)。尽管有些时候他可能还未准备好提供服务。
+同时，你可以浏览[我的个人网站](https://songzihuan@song-zh.com)。尽管有些时候他可能还未准备好提供服务。
 
 我的个人标志性域名是**song-zh.com**，请认准该域名，谨防冒充等行为。
 
