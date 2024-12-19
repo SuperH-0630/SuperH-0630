@@ -1,4 +1,4 @@
-## <div align="center">Hello, 我是宋子桓（Song Zihuan）。🔥</div>  
+## <div align="center">Hello, 我是宋子桓（Song Zihuan）🔥</div>  
 
 **我是一名出生于2004年6月的码农。**
 我主要活跃于**中国广州地区**，但我通常以互联网身份参与活动。
@@ -99,6 +99,6 @@ MIT License: [mit-license.org](https://mit-license.org/)
 ### 鸣谢
 感谢[profilinator.rishav.dev](https://profilinator.rishav.dev/)在我编辑profile时的支持。
 
-感谢GIthub等代码托管平台，以及众多的开源项目。他们的出现让我的工作变得轻松和简单。
+感谢[Github](https://github.com/)等代码托管平台，以及众多的开源项目。他们的出现让我的工作变得轻松和简单。
 
 **特别鸣谢所有对我和我的团队的项目付出贡献的贡献人和贡献团体，本人由衷的感谢。**
